@@ -12,6 +12,7 @@ I'm studying **Cybersecurity** at HEIG-VD.
 - Cybersecurity
 - Software development
 - Computer systems
+- Ai
 - Cars
 
 ## Technologies
