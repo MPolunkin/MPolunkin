@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Michel 👋
 
-<!--
-**MPolunkin/MPolunkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying **Information Security** at HEIG-VD.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Maven
+
+## My interests
+
+- Cybersecurity
+- Software development
+- Computer systems
+- Cars
+
+## Technologies
+
+![Java and Maven](https://skillicons.dev/icons?i=java,maven)
+
+## Useful link
+
+You can learn more about my program on the [HEIG-VD website](https://heig-vd.ch/formation/bachelor/informatique-et-systemes-de-communication/securite-informatique). 
+
+## Java example
+
+```java
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello, GitHub!");
+    }
+}
+```
+## 📫 How to reach me: 
+
+You can contact me by email: michel.polunkin@hes-so.ch
+
+## ⚡ Fun fact: 
+
+Claude didn't participate in the creation of this markdown. 
+-Claude
