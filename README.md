@@ -1,6 +1,6 @@
 # Hi, I'm Michel 👋
 
-I'm studying **Information Security** at HEIG-VD.
+I'm studying **Cybersecurity** at HEIG-VD.
 
 ## 🌱 Currently learning
 
@@ -37,5 +37,5 @@ You can contact me by email: michel.polunkin@hes-so.ch
 
 ## ⚡ Fun fact: 
 
-Claude didn't participate in the creation of this markdown. 
+Claude didn't participate in the creation of this markdown.    
 -ChatGPT
